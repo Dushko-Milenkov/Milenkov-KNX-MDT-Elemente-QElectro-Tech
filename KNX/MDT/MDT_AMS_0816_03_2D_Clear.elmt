@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<definition version="0.80" type="element" link_type="thumbnail" width="300" height="200" hotspot_x="150" hotspot_y="100">
+  <names>
+    <name lang="en">MDT AMS-0816.03 - Clear approximate front</name>
+    <name lang="de">MDT AMS-0816.03 - Clear angenaeherte Front</name>
+  </names>
+  <informations>Unofficial simplified front illustration redrawn from official MDT photograph https://www.mdt.de/fileadmin/user_upload/_processed_/a/e/csm_AMS-0816-03_F_9c3cb92d7a.png. Clear native regular Arial text, not pixel-traced lettering. This is an approximate layout, not a dimensionally/detail-exact manufacturer CAD conversion; pin details omitted. Front nominal envelope 144 x 90 mm, 2 drawing units/mm. No electrical connection terminals. Product source: https://www.mdt.de/produkte/produktdetail/aktorik/schaltaktoren/schaltaktor-ams-mit-strommessung-serie-03.html</informations>
+  <elementInformations>
+    <elementInformation name="manufacturer" show="1">MDT</elementInformation>
+    <elementInformation name="designation" show="1">AMS-0816.03</elementInformation>
+    <elementInformation name="description" show="1">Approximate illustrated front; not exact CAD</elementInformation>
+  </elementInformations>
+  <description>
+    <rect x="-144.0" y="-90" width="288" height="180" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGrayGainsboro;color:darkgray" />
+    <rect x="-144.0" y="-65" width="288" height="13" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGrayGainsboro;color:darkgray" />
+    <rect x="-144.0" y="-47" width="288" height="94" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLWhiteWhiteSmoke;color:darkgray" />
+    <rect x="-144.0" y="53" width="288" height="13" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGrayGainsboro;color:darkgray" />
+    <rect x="-138.0" y="-85" width="17.25" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="-131.875" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="-131.175" y1="-74.2" x2="-127.575" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="-120.75" y="-85" width="17.25" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="-114.625" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="-113.925" y1="-74.2" x2="-110.325" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="-103.5" y="-85" width="17.25" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="-97.375" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="-96.675" y1="-74.2" x2="-93.075" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="-86.25" y="-85" width="17.25" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="-80.125" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="-79.425" y1="-74.2" x2="-75.825" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="-69.0" y="-85" width="17.25" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="-62.875" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="-62.175" y1="-74.2" x2="-58.575" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="-51.75" y="-85" width="17.25" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="-45.625" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="-44.925" y1="-74.2" x2="-41.325" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="-34.5" y="-85" width="17.25" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="-28.375" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="-27.675" y1="-74.2" x2="-24.075" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="-17.25" y="-85" width="17.25" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="-11.125" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="-10.425" y1="-74.2" x2="-6.825" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="0.0" y="-85" width="17.25" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="6.125" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="6.825" y1="-74.2" x2="10.425" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="17.25" y="-85" width="17.25" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="23.375" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="24.075" y1="-74.2" x2="27.675" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="34.5" y="-85" width="17.25" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="40.625" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="41.325" y1="-74.2" x2="44.925" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="51.75" y="-85" width="17.25" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="57.875" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="58.575" y1="-74.2" x2="62.175" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="69.0" y="-85" width="17.25" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="75.125" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="75.825" y1="-74.2" x2="79.425" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="86.25" y="-85" width="17.25" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="92.375" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="93.075" y1="-74.2" x2="96.675" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="103.5" y="-85" width="17.25" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="109.625" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="110.325" y1="-74.2" x2="113.925" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="120.75" y="-85" width="17.25" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="126.875" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="127.575" y1="-74.2" x2="131.175" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <ellipse x="-136.0" y="-18.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="-131.15" y="-10.3" text="A" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <ellipse x="-98.85714285714286" y="-18.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="-94.00714285714287" y="-10.3" text="B" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <ellipse x="-61.71428571428571" y="-18.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="-56.86428571428571" y="-10.3" text="C" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <ellipse x="-24.57142857142857" y="-18.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="-19.721428571428568" y="-10.3" text="D" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <ellipse x="12.571428571428584" y="-18.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="17.421428571428585" y="-10.3" text="E" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <ellipse x="49.71428571428572" y="-18.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="54.564285714285724" y="-10.3" text="F" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <ellipse x="86.85714285714286" y="-18.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="91.70714285714286" y="-10.3" text="G" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <ellipse x="124.0" y="-18.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="128.85" y="-10.3" text="H" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <ellipse x="-137.0" y="8.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="-135.6" y="15.7" text="Prog" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <text x="-115.0" y="22" text="AMS-0816.03" size="5" font="Arial,5,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <text x="-115.0" y="30" text="Switch actuator 8x" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <text x="-115.0" y="37" text="230 V AC / 16 A" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <text x="114.0" y="24" text="KNX" size="5" font="Arial,5,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <text x="114.0" y="36" text="MDT" size="7" font="Arial,7,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <rect x="-136.0" y="71" width="10" height="19" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:black;color:darkgray" />
+    <rect x="-126.0" y="71" width="10" height="19" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:red;color:darkgray" />
+  </description>
+</definition>

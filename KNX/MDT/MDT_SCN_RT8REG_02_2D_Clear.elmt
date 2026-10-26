@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<definition version="0.80" type="element" link_type="thumbnail" width="80" height="200" hotspot_x="40" hotspot_y="100">
+  <names>
+    <name lang="en">MDT SCN-RT8REG.02 - Clear approximate front</name>
+    <name lang="de">MDT SCN-RT8REG.02 - Clear angenaeherte Front</name>
+  </names>
+  <informations>Unofficial simplified front illustration redrawn from official MDT photograph https://www.mdt.de/fileadmin/user_upload/_processed_/5/9/csm_SCN-RT8REG-02_F_6773147826.png. Clear native regular Arial text, not pixel-traced lettering. This is an approximate layout, not a dimensionally/detail-exact manufacturer CAD conversion; pin details omitted. Front nominal envelope 36 x 90 mm, 2 drawing units/mm. No electrical connection terminals. Product source: https://www.mdt.de/produkte/produktdetail/temperaturregler-8-fach.html</informations>
+  <elementInformations>
+    <elementInformation name="manufacturer" show="1">MDT</elementInformation>
+    <elementInformation name="designation" show="1">SCN-RT8REG.02</elementInformation>
+    <elementInformation name="description" show="1">Approximate illustrated front; not exact CAD</elementInformation>
+  </elementInformations>
+  <description>
+    <rect x="-36.0" y="-90" width="72" height="180" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGrayGainsboro;color:darkgray" />
+    <rect x="-36.0" y="-65" width="72" height="13" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGrayGainsboro;color:darkgray" />
+    <rect x="-36.0" y="-47" width="72" height="94" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLWhiteWhiteSmoke;color:darkgray" />
+    <rect x="-36.0" y="53" width="72" height="13" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGrayGainsboro;color:darkgray" />
+    <text x="-31.0" y="-15" text="SCN-RT8REG.02" size="4.3" font="Arial,4.3,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <text x="-31.0" y="-6" text="Temperature" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <text x="-31.0" y="3" text="controller 8x" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <ellipse x="17.0" y="-38.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="18.4" y="-30.3" text="Prog" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <text x="-31.0" y="35" text="KNX   MDT" size="6" font="Arial,6,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <rect x="-28.0" y="71" width="10" height="19" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:black;color:darkgray" />
+    <rect x="-18.0" y="71" width="10" height="19" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:red;color:darkgray" />
+  </description>
+</definition>

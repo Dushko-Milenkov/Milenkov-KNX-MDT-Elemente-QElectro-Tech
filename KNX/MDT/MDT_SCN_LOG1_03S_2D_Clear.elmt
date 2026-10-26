@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<definition version="0.80" type="element" link_type="thumbnail" width="80" height="200" hotspot_x="40" hotspot_y="100">
+  <names>
+    <name lang="en">MDT SCN-LOG1.03S - Clear approximate front</name>
+    <name lang="de">MDT SCN-LOG1.03S - Clear angenaeherte Front</name>
+  </names>
+  <informations>Unofficial simplified front illustration redrawn from official MDT photograph https://www.mdt.de/fileadmin/_processed_/7/0/csm_SCN-LOG1-03S_MDT_IMG_11_00_fc6db5e8ce.png. Clear native regular Arial text, not pixel-traced lettering. This is an approximate layout, not a dimensionally/detail-exact manufacturer CAD conversion; pin details omitted. Front nominal envelope 36 x 90 mm, 2 drawing units/mm. No electrical connection terminals. Product source: https://www.mdt.de/produkte/produktdetail/logikmodul-secure.html</informations>
+  <elementInformations>
+    <elementInformation name="manufacturer" show="1">MDT</elementInformation>
+    <elementInformation name="designation" show="1">SCN-LOG1.03S</elementInformation>
+    <elementInformation name="description" show="1">Approximate illustrated front; not exact CAD</elementInformation>
+  </elementInformations>
+  <description>
+    <rect x="-36.0" y="-90" width="72" height="180" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGrayGainsboro;color:darkgray" />
+    <rect x="-36.0" y="-65" width="72" height="13" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGrayGainsboro;color:darkgray" />
+    <rect x="-36.0" y="-47" width="72" height="94" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLWhiteWhiteSmoke;color:darkgray" />
+    <rect x="-36.0" y="53" width="72" height="13" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGrayGainsboro;color:darkgray" />
+    <text x="-31.0" y="-35" text="SCN-LOG1.03S" size="4.5" font="Arial,4.5,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <text x="-31.0" y="-26" text="Logic Secure" size="4.5" font="Arial,4.5,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <ellipse x="-25.5" y="-11.5" width="3" height="3" antialias="true" style="line-weight:thin;filling:gray;color:darkgray" />
+    <text x="-18.0" y="-8" text="1" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <ellipse x="-25.5" y="-1.5" width="3" height="3" antialias="true" style="line-weight:thin;filling:gray;color:darkgray" />
+    <text x="-18.0" y="2" text="2" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <ellipse x="-25.5" y="8.5" width="3" height="3" antialias="true" style="line-weight:thin;filling:gray;color:darkgray" />
+    <text x="-18.0" y="12" text="3" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <ellipse x="-25.5" y="18.5" width="3" height="3" antialias="true" style="line-weight:thin;filling:gray;color:darkgray" />
+    <text x="-18.0" y="22" text="4" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <ellipse x="18.0" y="-14.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="19.4" y="-6.3" text="Prog" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <text x="-31.0" y="39" text="KNX   MDT" size="6" font="Arial,6,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <rect x="-28.0" y="71" width="10" height="19" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:black;color:darkgray" />
+    <rect x="-18.0" y="71" width="10" height="19" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:red;color:darkgray" />
+  </description>
+</definition>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<definition version="0.80" type="element" link_type="thumbnail" width="160" height="200" hotspot_x="80" hotspot_y="100">
+  <names>
+    <name lang="en">MDT SCN-DABC4.01 - Clear approximate front</name>
+    <name lang="de">MDT SCN-DABC4.01 - Clear angenaeherte Front</name>
+  </names>
+  <informations>Unofficial simplified front illustration redrawn from official MDT photograph https://www.mdt.de/fileadmin/_processed_/c/7/csm_SCN-DABC4-01_MDT_IMG_11_00_580f1cfa1f.png. Clear native regular Arial text, not pixel-traced lettering. This is an approximate layout, not a dimensionally/detail-exact manufacturer CAD conversion; pin details omitted. Front nominal envelope 72 x 90 mm, 2 drawing units/mm. No electrical connection terminals. Product source: https://www.mdt.de/produkte/produktdetail/dali-control-broadcast-gateway.html</informations>
+  <elementInformations>
+    <elementInformation name="manufacturer" show="1">MDT</elementInformation>
+    <elementInformation name="designation" show="1">SCN-DABC4.01</elementInformation>
+    <elementInformation name="description" show="1">Approximate illustrated front; not exact CAD</elementInformation>
+  </elementInformations>
+  <description>
+    <rect x="-72.0" y="-90" width="144" height="180" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGrayGainsboro;color:darkgray" />
+    <rect x="-72.0" y="-65" width="144" height="13" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGrayGainsboro;color:darkgray" />
+    <rect x="-72.0" y="-47" width="144" height="94" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLWhiteWhiteSmoke;color:darkgray" />
+    <rect x="-72.0" y="53" width="144" height="13" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGrayGainsboro;color:darkgray" />
+    <rect x="-66.0" y="-85" width="10" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="-63.5" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="-62.8" y1="-74.2" x2="-59.2" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="-56.0" y="-85" width="10" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="-53.5" y="-78.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="-52.8" y1="-74.2" x2="-49.2" y2="-77.8" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="-66.0" y="68" width="12.75" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="-62.125" y="74.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="-61.425" y1="78.8" x2="-57.825" y2="75.2" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="-53.25" y="68" width="12.75" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="-49.375" y="74.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="-48.675" y1="78.8" x2="-45.075" y2="75.2" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="-40.5" y="68" width="12.75" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="-36.625" y="74.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="-35.925" y1="78.8" x2="-32.325" y2="75.2" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="-27.75" y="68" width="12.75" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="-23.875" y="74.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="-23.175" y1="78.8" x2="-19.575" y2="75.2" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="-15.0" y="68" width="12.75" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="-11.125" y="74.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="-10.425" y1="78.8" x2="-6.825" y2="75.2" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="-2.25" y="68" width="12.75" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="1.625" y="74.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="2.325" y1="78.8" x2="5.925" y2="75.2" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="10.5" y="68" width="12.75" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="14.375" y="74.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="15.075" y1="78.8" x2="18.675" y2="75.2" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <rect x="23.25" y="68" width="12.75" height="18" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:HTMLGreenForestGreen;color:darkgray" />
+    <ellipse x="27.125" y="74.5" width="5" height="5" antialias="true" style="line-weight:thin;filling:lightgray;color:darkgray" />
+    <line x1="27.825" y1="78.8" x2="31.425" y2="75.2" end1="none" end2="none" style="line-weight:thin;color:darkgray" />
+    <ellipse x="-61.0" y="-26.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="-56.15" y="-18.3" text="1" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <ellipse x="-61.0" y="14.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="-56.15" y="21.7" text="1" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <ellipse x="-24.333333333333336" y="-26.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="-19.483333333333334" y="-18.3" text="2" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <ellipse x="-24.333333333333336" y="14.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="-19.483333333333334" y="21.7" text="2" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <ellipse x="12.333333333333329" y="-26.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="17.18333333333333" y="-18.3" text="3" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <ellipse x="12.333333333333329" y="14.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="17.18333333333333" y="21.7" text="3" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <ellipse x="49.0" y="-26.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="53.85" y="-18.3" text="4" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <ellipse x="49.0" y="14.0" width="12" height="12" antialias="true" style="line-weight:thin;filling:blue;color:blue" />
+    <text x="53.85" y="21.7" text="4" size="4" font="Arial,4,-1,5,50,0,0,0,0,0,Regular" color="#ffffff" rotation="0" />
+    <text x="-64.0" y="-2" text="SCN-DABC4.01" size="5" font="Arial,5,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <text x="-64.0" y="7" text="DALI Broadcast 4x" size="4.5" font="Arial,4.5,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+    <rect x="46.0" y="71" width="10" height="19" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:black;color:darkgray" />
+    <rect x="56.0" y="71" width="10" height="19" rx="0" ry="0" antialias="true" style="line-weight:thin;filling:red;color:darkgray" />
+    <text x="37.0" y="43" text="MDT" size="6" font="Arial,6,-1,5,50,0,0,0,0,0,Regular" color="#0000a0" rotation="0" />
+  </description>
+</definition>
